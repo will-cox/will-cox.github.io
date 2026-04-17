@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>CalQuicky</title>
+        <item>
+            <title>1.1</title>
+            <pubDate>Fri, 17 Apr 2026 15:25:49 +1000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/will-cox/CalQuicky/releases/download/1.1/CalQuicky_1.1.dmg" length="3610459" type="application/octet-stream" sparkle:edSignature="hXwG6W1oQUlbRzuTe/ZPcdKdpSE84VwDuxWamqoDnKHIvLcHPEINVRGNe9UJ4OOBQ80O014G6Fed3+6jle9YDw=="/>
+        </item>
+    </channel>
+</rss>
